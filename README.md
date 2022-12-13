@@ -35,6 +35,16 @@
       * smtplib
       * sqlalchemy
     
+    
+- No site https://research.stlouisfed.org/ pesquisei e identifiquei os dados que pudessem me ajudar a descobrir os índices cuja variação tem maior correlação com o índice dos preços dos imóveis nos Estados Unidos.
+ - Filtrei os dados do S&P 500 para converter informações diárias em mensais e poder comparar com os índices que tem informação mensal. Fiz o mesmo processo com a taxa de juros.
+ - Juntei todas as informações em um único dataframe.
+ - Usei MinMaxScaler para normalizar os valores que foram utilizados nos gráficos.
+ - Exportei os dados para o banco de dados no MySQL.
+ - Fiz envio automático de e-mail com informações diárias.
+ - Gerei arquivo de log.
+    
+    
 ## Etapas
   - Extração. [ colocar mais detalhes ]
   - Limpeza e tratamento.
