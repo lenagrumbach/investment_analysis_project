@@ -46,10 +46,10 @@
     
     
 ## Etapas
-  - Extração. [ colocar mais detalhes ]
-  - Limpeza e tratamento.
-  - Transformação em um único dataset.
-  - Normalização dos dados para serem utilizados nos gráficos.
+  - Extração pelo Yahoo Finance, importando as colunas já com o ticker do ativo.
+  - Uso de merge para ter todos os dados em um único data frame.
+  - Normalização com MinMaxScaler dos dados da coluna Adj_Close para serem utilizados nos gráficos.
+  - Geração de gráficos para ter uma primeira visualização dos dados.
   - Exportação para o banco de dados do MySQL.
   - Envio automatizado de e-mails.
   - Geração de arquivo de log.
