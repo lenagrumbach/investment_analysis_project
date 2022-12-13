@@ -11,29 +11,29 @@
   - Exportação
   - Dashboard [ em construção ]
     
-## Ferramentas
-  * Python 
+## Ferramentas 
   * SQL
+    * MySQL
   * Tableau
-        * Jupyter
-        * datetime
-        * dotenv
-        * email
-        * logging
-        * matplotlib
-        * numpy
-        * os
-        * pandas
-        * pandas_datareader
-        * plotly.express
-        * plotly.graph_objects
-        * pretty_html_table
-        * pymysql
-        * seaborn
-        * sklearn.preprocessing
-        * smtplib
-        * sqlalchemy
-        * MySQL
+  * Python
+    * Jupyter
+      * datetime
+      * dotenv
+      * email
+      * logging
+      * matplotlib
+      * numpy
+      * os
+      * pandas
+      * pandas_datareader
+      * plotly.express
+      * plotly.graph_objects
+      * pretty_html_table
+      * pymysql
+      * seaborn
+      * sklearn.preprocessing
+      * smtplib
+      * sqlalchemy
     
 ## Etapas
   - Extração. [ colocar mais detalhes ]
