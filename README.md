@@ -35,16 +35,6 @@
       * smtplib
       * sqlalchemy
     
-    
-- No site https://research.stlouisfed.org/ pesquisei e identifiquei os dados que pudessem me ajudar a descobrir os índices cuja variação tem maior correlação com o índice dos preços dos imóveis nos Estados Unidos.
- - Filtrei os dados do S&P 500 para converter informações diárias em mensais e poder comparar com os índices que tem informação mensal. Fiz o mesmo processo com a taxa de juros.
- - Juntei todas as informações em um único dataframe.
- - Usei MinMaxScaler para normalizar os valores que foram utilizados nos gráficos.
- - Exportei os dados para o banco de dados no MySQL.
- - Fiz envio automático de e-mail com informações diárias.
- - Gerei arquivo de log.
-    
-    
 ## Etapas
   - Extração pelo Yahoo Finance, importando as colunas já com o ticker do ativo.
   - Uso de merge para ter todos os dados em um único data frame.
@@ -54,6 +44,7 @@
   - Envio automatizado de e-mails.
   - Geração de arquivo de log.
   - [ To do: Dashboard no Tableau ]
+
 
 ![image](https://user-images.githubusercontent.com/112282677/207214022-a01f89b2-e58c-4e75-8080-71cc0910db25.png)
 
@@ -68,6 +59,7 @@
 
 ## Conclusões
   [ elaborar ]
+  
   
 
 📫 Se você tiver algum comentário ou sugestão, por favor me avise!
