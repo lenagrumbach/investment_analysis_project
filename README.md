@@ -6,18 +6,37 @@
   
 ## Técnicas
   - Extração
-  - Limpeza e processamento
+  - Limpeza e Processamento
   - Visualização
   - Exportação
   - Dashboard [ em construção ]
     
 ## Ferramentas
-  - Jupyter
-  - MySQL
-  - Tableau
-  
+  * Python 
+  * SQL
+  * Tableau
+        * Jupyter
+        * datetime
+        * dotenv
+        * email
+        * logging
+        * matplotlib
+        * numpy
+        * os
+        * pandas
+        * pandas_datareader
+        * plotly.express
+        * plotly.graph_objects
+        * pretty_html_table
+        * pymysql
+        * seaborn
+        * sklearn.preprocessing
+        * smtplib
+        * sqlalchemy
+        * MySQL
+    
 ## Etapas
-  - Extração.
+  - Extração. [ colocar mais detalhes ]
   - Limpeza e tratamento.
   - Transformação em um único dataset.
   - Normalização dos dados para serem utilizados nos gráficos.
@@ -40,32 +59,6 @@
 ## Conclusões
   [ elaborar ]
   
-## Bibliotecas 
-- dotenv
-- email.message
-- logging
-- matplotlib.pyplot as plt
-- numpy as np
-- os
-- pandas as pd
-- pandas_datareader as oi
-- pandas_datareader.data as web
-- plotly.express as px
-- plotly.graph_objects as go
-- pymysql
-- seaborn as sns
-- smtplib
-- sqlalchemy as db
-- datetime import date
-- email import encoders
-- email.mime.application import MIMEApplication
-- email.mime.base import MIMEBase
-- email.mime.multipart import MIMEMultipart
-- email.mime.text import MIMEText
-- matplotlib import style
-- pretty_html_table import build_table
-- sklearn.preprocessing import MinMaxScaler
-
 
 📫 Se você tiver algum comentário ou sugestão, por favor me avise!
     
