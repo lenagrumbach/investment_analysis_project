@@ -2,7 +2,7 @@
   Status do projeto (em andamento)
 
 ## Objetivo
-  Projeto final do bootcamp [ elaborar essa parte || Explicar o que são ETFs e o motivo de ter escolhido estas ]
+  Projeto final do bootcamp [ elaborar e dar contexto para o projeto || Explicar o que são ETFs e o motivo de ter escolhido estas ]
   
 ## Técnicas
   - Extração
@@ -17,12 +17,13 @@
   - Tableau
   
 ## Etapas
-  - Extraí os dados do Yahoo Finance.
-  - Agrupei as informações em um único dataset.
-  - Normalizei os dados para usar nos gráficos.
-  - Exportei os dados tratados para o banco de dados do MySQL.
-  - Fiz envio automático de email com as informações atualizadas.
-  - Gerei arquivo de log.
+  - Extração.
+  - Limpeza e tratamento.
+  - Transformação em um único dataset.
+  - Normalização dos dados para serem utilizados nos gráficos.
+  - Exportação para o banco de dados do MySQL.
+  - Envio automatizado de e-mails.
+  - Geração de arquivo de log.
   - [ To do: Dashboard no Tableau ]
 
 ![image](https://user-images.githubusercontent.com/112282677/207214022-a01f89b2-e58c-4e75-8080-71cc0910db25.png)
@@ -37,31 +38,37 @@
 
 
 ## Conclusões
-  [ elaborar essa parte ]
+  [ elaborar ]
   
-
 ## Bibliotecas 
-- datetime
 - dotenv
 - email.message
-- email.mime.application
-- email.mime.base
-- email.mime.multipart
-- email.mime.text
 - logging
-- matplotlib
-- numpy
+- matplotlib.pyplot as plt
+- numpy as np
 - os
-- pandas
-- pandas_datareader
-- pandas_datareader.data
-- plotly.express
-- plotly.graph_objects
-- pretty_html_table
+- pandas as pd
+- pandas_datareader as oi
+- pandas_datareader.data as web
+- plotly.express as px
+- plotly.graph_objects as go
 - pymysql
-- seaborn
-- sklearn.preprocessing
+- seaborn as sns
 - smtplib
-- Sqlalchemy
+- sqlalchemy as db
+- datetime import date
+- email import encoders
+- email.mime.application import MIMEApplication
+- email.mime.base import MIMEBase
+- email.mime.multipart import MIMEMultipart
+- email.mime.text import MIMEText
+- matplotlib import style
+- pretty_html_table import build_table
+- sklearn.preprocessing import MinMaxScaler
 
 
+📫 Se você tiver algum comentário ou sugestão, por favor me avise!
+    
+    https://www.linkedin.com/in/lenagrumbach/
+    
+    lenagrumbach@gmail.com
