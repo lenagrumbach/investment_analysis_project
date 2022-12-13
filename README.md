@@ -21,28 +21,27 @@
 
 
 ## Bibliotecas 
-datetime
-dotenv
-email.message
-email.mime.application
-email.mime.base
-email.mime.multipart
-email.mime.text
-logging
-matplotlib
-numpy
-os
-pandas
-pandas_datareader
-pandas_datareader.data
-plotly.express
-plotly.graph_objects
-pymysql
-seaborn
-smtplib
-Sqlalchemy
+- datetime
+- dotenv
+- email.message
+- email.mime.application
+- email.mime.base
+- email.mime.multipart
+- email.mime.text
+- logging
+- matplotlib
+- numpy
+- os
+- pandas
+- pandas_datareader
+- pandas_datareader.data
+- plotly.express
+- plotly.graph_objects
+- pretty_html_table
+- pymysql
+- seaborn
+- sklearn.preprocessing
+- smtplib
+- Sqlalchemy
 
-
-Pretty_html_table
-sklearn.preprocessing
 
