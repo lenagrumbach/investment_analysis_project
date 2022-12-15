@@ -65,10 +65,14 @@
 ## Tableau
 
 Link para Public Tableau [ ,,,,,, ]
-  
-  
 
+![image](https://user-images.githubusercontent.com/112282677/207752469-9e232ba1-d78d-4614-aaa1-e7d31cd019bd.png)
 
+![image](https://user-images.githubusercontent.com/112282677/207752683-48736ea6-276a-4a12-baab-5816d28baba1.png)
+
+![image](https://user-images.githubusercontent.com/112282677/207752876-98fbdb63-0c64-4d63-a84d-b66707d10dc2.png)
+
+![image](https://user-images.githubusercontent.com/112282677/207752952-681da14a-bd3c-475e-900c-1f2581eba094.png)
 
 
 
