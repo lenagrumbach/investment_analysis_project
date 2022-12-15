@@ -45,36 +45,28 @@
   - Envio automatizado de e-mails.
   - Geração de arquivo de log.
   - Automação de atualização diária.
-  - Dashboard no Tableau com filtros interativos
+  - Construção de dashboard no Tableau com filtros interativos
 
 
-![image](https://user-images.githubusercontent.com/112282677/207214022-a01f89b2-e58c-4e75-8080-71cc0910db25.png)
+![image](https://user-images.githubusercontent.com/112282677/207751381-334c5090-fb3c-4ab0-b4bb-9d9fe55fb846.png)
 
-![image](https://user-images.githubusercontent.com/112282677/207213492-f8dc0b7d-88be-4497-91a8-30b063a0d9c4.png)
+![image](https://user-images.githubusercontent.com/112282677/207751455-b9bec284-965a-405a-9109-3096d3f776d3.png)
 
-![image](https://user-images.githubusercontent.com/112282677/207213580-4acd3665-0449-41b2-994c-3c91555d5f55.png)
+![image](https://user-images.githubusercontent.com/112282677/207751522-0517081c-772d-46cf-93da-600a19acfc49.png)
 
-![image](https://user-images.githubusercontent.com/112282677/207213773-806ebcaf-d79a-4b48-a013-c19332d8ce9c.png)
+![image](https://user-images.githubusercontent.com/112282677/207751581-264b4675-d045-45b8-b199-fcaa4c289e0d.png)
 
-![image](https://user-images.githubusercontent.com/112282677/207213839-de793c36-2b5d-4a20-9ef6-fb2f09264caf.png)
+![image](https://user-images.githubusercontent.com/112282677/207751636-4a02355e-e6d2-44b4-8673-83a4a6378da4.png)
 
 
 ## Conclusões
   [ elaborar ]
   
-## Tableau, link [ @@@@@@@ ]
+## Tableau
+
+Link para Public Tableau [ ,,,,,, ]
   
   
-![image](https://user-images.githubusercontent.com/112282677/207747123-6faad87e-c2cf-4fe7-bb0d-d6ad5f9c276e.png)
-  
-
-![image](https://user-images.githubusercontent.com/112282677/207747313-4997bc9a-5ead-4444-a495-0fa5c16b6bd1.png)
-
-
-![image](https://user-images.githubusercontent.com/112282677/207747439-2c6cbb0f-cb4a-43c2-9f35-844eecf4a33a.png)
-
-
-![image](https://user-images.githubusercontent.com/112282677/207747710-3c93b8ba-2449-44bc-921d-90a7a6765fae.png)
 
 
 
