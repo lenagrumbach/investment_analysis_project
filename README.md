@@ -76,6 +76,8 @@ Sobre as ETFs escolhidas:
   
 ## Tableau
 
+
+
 [Link para Public Tableau] (https://public.tableau.com/app/profile/lena.grumbach/viz/investment_analysis_dashboard/IVV?publish=yes)
 
 ![image](https://user-images.githubusercontent.com/112282677/207752469-9e232ba1-d78d-4614-aaa1-e7d31cd019bd.png)
