@@ -2,7 +2,20 @@
   Status do projeto (em andamento)
 
 ## Objetivo
-  Projeto final do bootcamp [ elaborar e dar contexto para o projeto || Explicar o que são ETFs e o motivo de ter escolhido estas ]
+
+O objetivo desse projeto é analisar a importância da constância em investimentos. Para isso, observei o desempenho de quatro ETFs, abrangendo o mercado americano, mercados emergentes (inclui o Brasil) e mercados desenvolvidos fora dos EUA.
+
+ETF é uma sigla que na língua inglesa significa Exchange Traded Funds, traduzindo, Fundos de Índices. É um tipo de fundo de investimento, que tem taxa de administração baixa e é negociado na bolsa de valores.
+
+Sobre as ETFs escolhidas:
+
+* IVV: replica o S&P 500, principal índice da Nasdaq, que é a bolsa onde estão as 500 maiores empresas de tecnologia dos EUA, como por exemplo o Google, Facebook, Microsoft, Apple, Disney, Netflix, Visa e tantas outras.
+
+* SLYV: acompanha o índice S&P 600, small cap no mercado americano. Tendo como destaque as empresas do setor financeiro, indústrias e consumos cíclicos que correspondem a aproximadamente 60% do portfólio do fundo. Tendo também exposição aos setores de TI, imobiliário, energia, assistência médica, entre outros.
+
+* VEA: rastreia um índice ponderado por capitalização de mercado de ações de grande, média e pequena capitalização de mercados desenvolvidos fora dos EUA.
+
+* VWO:  exposição nos mercados emergentes, entre eles Brasil, China e Índia.
   
 ## Técnicas
   - Extração
@@ -38,13 +51,12 @@
     
 ## Etapas
   - Extração pelo Yahoo Finance, importando as colunas já com o ticker do ativo.
-  - Uso de merge para ter todos os dados em um único data frame.
-  - Normalização com MinMaxScaler dos dados da coluna Adj_Close para serem utilizados no gráfico.
-  - Geração de gráficos com Python para ter uma primeira visualização dos dados.
+  - Unificação dos dados em um único data frame.
+  - Normalização com MinMaxScaler na coluna Adj_Close para utilizar os dados no gráfico.
+  - Geração de gráficos com Python com a finalidade de ter uma primeira visualização dos dados.
   - Exportação para o banco de dados do MySQL.
   - Envio automatizado de e-mails.
   - Geração de arquivo de log.
-  - Automação de atualização diária.
   - Construção de dashboard no Tableau com filtros interativos
 
 
