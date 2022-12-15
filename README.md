@@ -59,6 +59,7 @@ Sobre as ETFs escolhidas:
   - Geração de arquivo de log.
   - Construção de dashboard no Tableau com filtros interativos
 
+📊 Gráficos - Python
 
 ![image](https://user-images.githubusercontent.com/112282677/207751381-334c5090-fb3c-4ab0-b4bb-9d9fe55fb846.png)
 
