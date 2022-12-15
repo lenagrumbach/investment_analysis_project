@@ -1,5 +1,7 @@
 ## investment_analysis
   Status do projeto (finalizado)
+  
+![image](https://github.com/lenagrumbach/investment_analysis_project/blob/main/ezgif.com-gif-maker.gif)
 
 ## Objetivo
 
