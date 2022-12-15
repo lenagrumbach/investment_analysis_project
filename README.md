@@ -71,12 +71,11 @@ Sobre as ETFs escolhidas:
 ![image](https://user-images.githubusercontent.com/112282677/207751636-4a02355e-e6d2-44b4-8673-83a4a6378da4.png)
 
 
-## Conclusões
-  [ elaborar ]
+## Conclusão
+
+Parece que quem foca no longo prazo e tem constância obtém ótimos resultados. O investidor que conseguiu ter “sangue frio” e manteve seus investimentos de longo prazo durante a pandemia, em 2022 já recuperou as perdas de 2020 e teve aumento de capital.
   
 ## Tableau
-
-
 
 [Link para Public Tableau] (https://public.tableau.com/app/profile/lena.grumbach/viz/investment_analysis_dashboard/IVV?publish=yes)
 
