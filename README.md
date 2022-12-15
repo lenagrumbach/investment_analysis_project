@@ -61,6 +61,8 @@ Sobre as ETFs escolhidas:
 
 📊 Gráficos - Python
 
+* Gráfico com as quatro ETFs juntas, com informações desde 2008. Aqui podemos ver que em 2022, três ETFs já recuperaram  as perdas de 2020 com ampla vantagem. Apenas a ETF de mercados emergentes não teve um desempenho tão bom, recuperou a perda mas não teve ganho expressivo.
+
 ![image](https://user-images.githubusercontent.com/112282677/207751381-334c5090-fb3c-4ab0-b4bb-9d9fe55fb846.png)
 
 ![image](https://user-images.githubusercontent.com/112282677/207751455-b9bec284-965a-405a-9109-3096d3f776d3.png)
