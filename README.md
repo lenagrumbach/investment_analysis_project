@@ -1,8 +1,6 @@
 ## investment_analysis
   Status do projeto (finalizado)
-  
-![image](https://github.com/lenagrumbach/investment_analysis_project/blob/main/ezgif.com-gif-maker.gif)
-
+ 
 ## Objetivo
 
 O objetivo desse projeto é analisar os efeitos de uma estratégia com visão de longo prazo em investimentos. Para isso, observei o desempenho de quatro ETFs, abrangendo o mercado americano, mercados emergentes (inclui o Brasil) e mercados desenvolvidos fora dos EUA.
@@ -88,13 +86,11 @@ Baseado na amostra de mercado, que abrangeu EUA, mercados desenvolvidos fora dos
 
 [Link para Public Tableau] (https://public.tableau.com/app/profile/lena.grumbach/viz/investment_analysis_dashboard/IVV?publish=yes)
 
-![image](https://user-images.githubusercontent.com/112282677/207752469-9e232ba1-d78d-4614-aaa1-e7d31cd019bd.png)
+.
 
-![image](https://user-images.githubusercontent.com/112282677/207752683-48736ea6-276a-4a12-baab-5816d28baba1.png)
+![image](https://github.com/lenagrumbach/investment_analysis_project/blob/main/ezgif.com-gif-maker.gif)
 
-![image](https://user-images.githubusercontent.com/112282677/207752876-98fbdb63-0c64-4d63-a84d-b66707d10dc2.png)
-
-![image](https://user-images.githubusercontent.com/112282677/207752952-681da14a-bd3c-475e-900c-1f2581eba094.png)
+. 
 
 
 
