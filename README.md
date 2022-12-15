@@ -6,10 +6,11 @@
   
 ## Técnicas
   - Extração
-  - Limpeza e Processamento
+  - Limpeza e processamento
   - Visualização
   - Exportação
-  - Dashboard [ em construção ]
+  - Automação 
+  - Dashboard
     
 ## Ferramentas 
   * SQL
@@ -38,12 +39,13 @@
 ## Etapas
   - Extração pelo Yahoo Finance, importando as colunas já com o ticker do ativo.
   - Uso de merge para ter todos os dados em um único data frame.
-  - Normalização com MinMaxScaler dos dados da coluna Adj_Close para serem utilizados nos gráficos.
-  - Geração de gráficos para ter uma primeira visualização dos dados.
+  - Normalização com MinMaxScaler dos dados da coluna Adj_Close para serem utilizados no gráfico.
+  - Geração de gráficos com Python para ter uma primeira visualização dos dados.
   - Exportação para o banco de dados do MySQL.
   - Envio automatizado de e-mails.
   - Geração de arquivo de log.
-  - [ To do: Dashboard no Tableau ]
+  - Automação de atualização diária.
+  - Dashboard no Tableau com filtros interativos
 
 
 ![image](https://user-images.githubusercontent.com/112282677/207214022-a01f89b2-e58c-4e75-8080-71cc0910db25.png)
@@ -60,7 +62,23 @@
 ## Conclusões
   [ elaborar ]
   
+## Tableau, link [ @@@@@@@ ]
   
+  
+![image](https://user-images.githubusercontent.com/112282677/207747123-6faad87e-c2cf-4fe7-bb0d-d6ad5f9c276e.png)
+  
+
+![image](https://user-images.githubusercontent.com/112282677/207747313-4997bc9a-5ead-4444-a495-0fa5c16b6bd1.png)
+
+
+![image](https://user-images.githubusercontent.com/112282677/207747439-2c6cbb0f-cb4a-43c2-9f35-844eecf4a33a.png)
+
+
+![image](https://user-images.githubusercontent.com/112282677/207747710-3c93b8ba-2449-44bc-921d-90a7a6765fae.png)
+
+
+
+
 
 📫 Se você tiver algum comentário ou sugestão, por favor me avise!
     
