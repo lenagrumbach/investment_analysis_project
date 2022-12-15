@@ -29,8 +29,8 @@ Sobre as ETFs escolhidas:
   * SQL
     * MySQL
   * Tableau
+  * Jupyter
   * Python
-    * Jupyter
       * datetime
       * dotenv
       * email
