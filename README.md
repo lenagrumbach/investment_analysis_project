@@ -9,9 +9,9 @@ ETF é uma sigla que na língua inglesa significa Exchange Traded Funds, traduzi
 
 Sobre as ETFs escolhidas:
 
-* IVV: replica o S&P 500, principal índice da Nasdaq, que é a bolsa onde estão as 500 maiores empresas de tecnologia dos EUA, como por exemplo o Google, Facebook, Microsoft, Apple, Disney, Netflix, Visa e tantas outras.
+* IVV: replica o S&P 500, principal índice da Nasdaq, que é a bolsa onde estão as 500 maiores empresas de tecnologia dos EUA, como por exemplo Google, Facebook, Microsoft, Apple, Disney, Netflix e Visa.
 
-* SLYV: acompanha o índice S&P 600, small cap no mercado americano. Tendo como destaque as empresas do setor financeiro, indústrias e consumos cíclicos que correspondem a aproximadamente 60% do portfólio do fundo. Tendo também exposição aos setores de TI, imobiliário, energia, assistência médica, entre outros.
+* SLYV: acompanha o índice S&P 600, small cap no mercado americano. Tendo como destaque as empresas do setor financeiro, indústrias e consumos cíclicos, que correspondem a aproximadamente 60% do portfólio do fundo. Tendo também exposição aos setores imobiliário, tecnologia, energia, assistência médica, entre outros.
 
 * VEA: rastreia um índice ponderado por capitalização de mercado de ações de grande, média e pequena capitalização de mercados desenvolvidos fora dos EUA.
 
