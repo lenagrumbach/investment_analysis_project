@@ -86,8 +86,6 @@ Baseado nessa amostra de mercado, que abrangeu EUA, mercados desenvolvidos fora 
 
 [Link para Public Tableau] (https://public.tableau.com/app/profile/lena.grumbach/viz/investment_analysis_dashboard/IVV?publish=yes)
 
-
-
 ![image](https://user-images.githubusercontent.com/112282677/207752469-9e232ba1-d78d-4614-aaa1-e7d31cd019bd.png)
 
 ![image](https://user-images.githubusercontent.com/112282677/207752683-48736ea6-276a-4a12-baab-5816d28baba1.png)
