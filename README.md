@@ -3,7 +3,7 @@
  
 ## Objetivo
 
-O objetivo desse projeto é analisar os efeitos de uma estratégia com visão de longo prazo em investimentos. Para isso, observei o desempenho de quatro ETFs, abrangendo o mercado americano, mercados emergentes (inclui o Brasil) e mercados desenvolvidos fora dos EUA.
+O objetivo desse projeto é analisar os efeitos de uma estratégia de investimento com visão de longo prazo. Para isso, observei o desempenho de quatro ETFs, abrangendo o mercado americano, mercados emergentes (inclui o Brasil) e mercados desenvolvidos fora dos EUA.
 
 ETF é uma sigla que na língua inglesa significa Exchange Traded Funds, traduzindo, Fundos de Índices. É um tipo de fundo de investimento, que tem taxa de administração baixa e é negociado na bolsa de valores.
 
